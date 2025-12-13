@@ -1,3 +1,7 @@
+
+# Felipe Miranda Morais
+Para aperfeiçoar as skills, fazendo com que meu conhecimento com códigos em times seja melhor   
+
 # Gianluca Justino Agostinho
 Para poder conseguir trabalhar na área, visto que é uma ferramenta necessária para qualquer profissional de TI
 
