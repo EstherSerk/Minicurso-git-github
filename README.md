@@ -1,3 +1,5 @@
+# Gianluca Justino Agostinho
+Para poder conseguir trabalhar na área, visto que é uma ferramenta necessária para qualquer profissional de TI
 
 # Felipe Gama Salvador 
 
@@ -14,4 +16,3 @@ Estou aprendendo git e github, pois são ferramentas essenciais para um desenvol
 # Daniel Vito Ramos
 
 Eu estou aprendendo Git para expandir os meus conhecimentos na área de programação visando futuramente utilizar estes conhecimentos no mercado de IA
-
