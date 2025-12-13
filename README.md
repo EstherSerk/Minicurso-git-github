@@ -1,3 +1,6 @@
+# Gurilherme de Oliveira Takeuti
+
+Estou aprendendo git para poder trabalhar na área
 
 # Felipe Miranda Morais
 Para aperfeiçoar as skills, fazendo com que meu conhecimento com códigos em times seja melhor   
